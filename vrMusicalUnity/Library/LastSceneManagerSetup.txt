@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Brandscape.unity
+- path: Assets/americanotopia.unity
   isLoaded: 1
   isActive: 1
