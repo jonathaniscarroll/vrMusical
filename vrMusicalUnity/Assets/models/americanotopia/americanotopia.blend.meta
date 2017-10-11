@@ -44,6 +44,7 @@ ModelImporter:
     100072: Bone_018
     100074: Bone_019
     100076: Plane_009
+    100078: _ROLLERCOASTER_001_MeshPart2
     400000: _ROLLERCOASTER_001
     400002: _ROLLERCOASTER_001_MeshPart0
     400004: _ROLLERCOASTER_001_MeshPart1
@@ -83,6 +84,7 @@ ModelImporter:
     400072: Bone_018
     400074: Bone_019
     400076: Plane_009
+    400078: _ROLLERCOASTER_001_MeshPart2
     2300000: _ROLLERCOASTER_001_MeshPart0
     2300002: _ROLLERCOASTER_001_MeshPart1
     2300004: BezierCircle_002
@@ -97,6 +99,7 @@ ModelImporter:
     2300022: BezierCurve_000_MeshPart7
     2300024: BezierCurve_000_MeshPart8
     2300026: Plane_009
+    2300028: _ROLLERCOASTER_001_MeshPart2
     3300000: _ROLLERCOASTER_001_MeshPart0
     3300002: _ROLLERCOASTER_001_MeshPart1
     3300004: BezierCircle_002
@@ -111,6 +114,7 @@ ModelImporter:
     3300022: BezierCurve_000_MeshPart7
     3300024: BezierCurve_000_MeshPart8
     3300026: Plane_009
+    3300028: _ROLLERCOASTER_001_MeshPart2
     4300000: BezierCurve_002
     4300002: BezierCircle_002
     4300004: BezierCircle_003
@@ -126,6 +130,7 @@ ModelImporter:
     4300024: BezierCurve_000_MeshPart6
     4300026: BezierCurve_000_MeshPart7
     4300028: BezierCurve_000_MeshPart8
+    4300030: _ROLLERCOASTER_001_MeshPart2
     7400000: Default Take
     7400002: ArmatureAction_000
     7400004: ArmatureAction_002
